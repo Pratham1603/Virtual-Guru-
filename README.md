@@ -75,7 +75,8 @@ Our model detects and evaluates yoga postures in real-time, helping users refine
 
 ## 📸 Project Showcase
 
-<p align="center">![Virtual_guru](https://github.com/user-attachments/assets/75aa4961-5902-4c82-8f92-7055b3a4be03)</p>
+<p align="center">![Virtual_guru](https://github.com/user-attachments/assets/102b586a-becd-4da8-9a8c-c8dbdf00b646)
+</p>
 
 
 | Dashboard | Pose Detection | Feedback |
@@ -95,8 +96,7 @@ Our model detects and evaluates yoga postures in real-time, helping users refine
 
 You can also include screenshots of key slides here 👇  
 <p align="center">
-  <img src="assets/ppt_slide1.png" width="60%">
-  <img src="assets/ppt_slide2.png" width="60%">
+  ![Virtual_guru_2](https://github.com/user-attachments/assets/3da302bb-1ab7-482e-a626-2b5074f168e0)
 </p>
 
 ---
